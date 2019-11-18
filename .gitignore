@@ -1,0 +1,9 @@
+lib/data/interactions_test.csv
+lib/data/interactions_train.csv
+lib/data/interactions_validation.csv
+lib/data/PP_recipes.csv
+lib/data/PP_users.csv
+lib/data/RAW_interactions.csv
+lib/data/RAW_recipes.csv
+lib/data/ingr_map.pkl
+lib/data/food-com-recipes-and-user-interactions.zip
