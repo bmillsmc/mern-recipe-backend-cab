@@ -8,3 +8,4 @@ lib/data/RAW_recipes.csv
 lib/data/ingr_map.pkl
 lib/data/food-com-recipes-and-user-interactions.zip
 lib/data/raw_recipe.json
+database_password.txt
