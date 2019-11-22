@@ -56,8 +56,8 @@ To use the API there must be data seeded into the Recipes collection and the Ing
 
   <_What should the status code be on success and is there any returned data? This is useful when people need to to know what their callbacks should expect!_>
 
-  - ### Code: 200 <br />
-    ### Content: `{ id : 12 }`
+  - #### Code: 200 <br />
+    #### Content: `{ id : 12 }`
 
 - #### Error Response
 
@@ -116,8 +116,8 @@ To use the API there must be data seeded into the Recipes collection and the Ing
 
   <_What should the status code be on success and is there any returned data? This is useful when people need to to know what their callbacks should expect!_>
 
-  - ### Code: 200 <br />
-    ### Content: `{ id : 12 }`
+  - #### Code: 200 <br />
+    #### Content: `{ id : 12 }`
 
 - #### Error Response
 
