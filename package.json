@@ -19,11 +19,11 @@
   "homepage": "https://github.com/bmillsmc/mern-recipe-backend-cab#readme",
   "dependencies": {
     "JSONStream": "^1.3.5",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "convert-csv-to-json": "0.0.15",
     "cors": "^2.8.5",
     "csvtojson": "^2.0.10",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-paginate": "^1.0.0",
     "fs": "0.0.1-security",
     "jwt-simple": "^0.5.6",
